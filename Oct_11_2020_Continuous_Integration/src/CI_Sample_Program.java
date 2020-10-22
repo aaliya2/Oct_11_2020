@@ -6,7 +6,7 @@ public class CI_Sample_Program {
 		System.out.println("selenium");
 		System.out.println("automation");
 		System.out.println("webdriver");
-		System.out.println("java");
+		//System.out.println("java"); //removed 4th line
 	}
 
 }
